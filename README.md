@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitchalWoo
 - 👀 I’m interested in Azure and Machine Learning
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me - by hand
 
