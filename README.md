@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitchalWoo
-- 👀 I’m interested in Azure and Machine Learning
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on TBD
+- 👀 I’m interested in general engineering (.net, python, swift, typescript) + gamedev
+- 🌱 I’m currently learning mobile dev
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach me - by hand
 
 <!---
