@@ -1,10 +1,9 @@
-👋 Hi, I’m @GitchalWoo
-👀 I’m interested in general engineering (.net, python, swift, typescript) + gamedev
-🌱 I’m currently learning mobile dev
-💞️ I’m looking to collaborate on games
-📫 How to reach me - by hand
+# 👋 Hi, I’m @GitchalWoo
 
-<!---
-GitchalWoo/GitchalWoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧠 Engineer at heart — .NET, Python, Swift, TypeScript
+- 🎮 Building games for fun (and maybe for real)
+- 📱 Learning mobile dev one crash at a time
+- 🤝 Always down to make something cool — especially games
+- 📫 Reach me? Toss a note by hand
+
+[My GitHub →](https://github.com/GitchalWoo)
